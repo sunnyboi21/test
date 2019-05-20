@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^2.6.5",
+    "jsplumb": "^2.9.3",
+    "mxgraph": "^3.9.12",
     "vue": "^2.6.10"
   },
   "devDependencies": {
